@@ -34,13 +34,13 @@ This project goes over how to create a share folder using server manager using S
  <br/>
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Server Manager.</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Server Manager.</b></span>  
 <br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -48,13 +48,13 @@ This project goes over how to create a share folder using server manager using S
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: File and Storage Services (far-left column).</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: File and Storage Services (far-left column).</b></span>  
 <br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/lTJCFlw.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/Wl6Do06.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -62,19 +62,19 @@ This project goes over how to create a share folder using server manager using S
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Shares (left-column).</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Shares (left-column).</b></span>  
 <br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/MPzu4yq.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/QTgQ623.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/67C6F4S.png" height="100%" width="100%" /></td>
+    <td><img src=https://imgur.com/nfD0EdV.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/kw4bQDE.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/GgGy4IZ.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -82,19 +82,19 @@ This project goes over how to create a share folder using server manager using S
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The white part in the middle of the screen below SHARES (top).</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The white part in the middle of the screen below SHARES (top).</b></span>  
 <br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/MPzu4yq.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/QTgQ623.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/uTjvxsx.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/zEXfK2Z.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/kw4bQDE.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/CdLqdzz.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -102,27 +102,27 @@ This project goes over how to create a share folder using server manager using S
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: New Shares. 
-    <a href="https://github.com/RashadHagen/ADUC-Find-Computer-User-Printer-Shared-Folder-Organizational-Unit-Common-Queries" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;"> How To Find</b></span>  
-  <br/>
-  <img src="https://imgur.com/weAIRRS.png" height="50%" width="50%"/>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: New Shares.
+    <br/>
+    
+  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
   <br /><br /><br /><br />
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Selcct: The type of File Sharing Profile you want to do (SMB = Windows, NFS = Linux/Unix). (ex: SMB Share – Quick).  Click: Next.</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Selcct: The type of File Sharing Profile you want to do (SMB = Windows, NFS = Linux/Unix). (ex: SMB Share – Quick).  Click: Next.</b></span>  
 <br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/MPzu4yq.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/QTgQ623.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/vw6pv1n.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/XD0Jfia.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/kw4bQDE.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/qBZb4ZW.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -130,19 +130,19 @@ This project goes over how to create a share folder using server manager using S
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: The server you want to put the shared drive with (ex: DCSERVER2016KIS).  Click: Next.</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: The server you want to put the shared drive with (ex: DCSERVER2016KIS).  Click: Next.</b></span>  
 <br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/MPzu4yq.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/QTgQ623.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/xE2IGKN.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/lb43Jcx.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/kw4bQDE.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/mKKH0Jk.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -150,33 +150,19 @@ This project goes over how to create a share folder using server manager using S
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: The name of the share folder.  NOTE: The area named: Local path to share, is showing the path of the share folder being created.  Click: Next.</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: The name of the share folder.  NOTE: The area named: Local path to share, is showing the path of the share folder being created.  Click: Next.</b></span>  
 <br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/MPzu4yq.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/QTgQ623.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/t4z76AC.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/L0jQ5oX.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/kw4bQDE.png" height="50%" width="50%" /></td>
-  </tr>
-</table>
-
-<br /><br />
-
-
-<div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: Configuration share settings.  Click: Next.</b></span>:  
-<br/>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/iqaYZTl.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -184,13 +170,13 @@ This project goes over how to create a share folder using server manager using S
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Create custom permissions  (AND/OR)  Click: Next.</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: Configuration share settings.  Click: Next.</b></span>  
 <br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/Vv2qUdH.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/DYLumSX.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -198,13 +184,13 @@ This project goes over how to create a share folder using server manager using S
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Create.</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Create custom permissions  (AND/OR)  Click: Next.</b></span>  
 <br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/F4f5YPJ.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/Kfjr2sw.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -212,13 +198,27 @@ This project goes over how to create a share folder using server manager using S
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Close</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Create.</b></span>  
 <br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/BtOvwfG.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/4ZED9F9.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Close.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/go1Ef9C.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/4ZPKKoR.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
