@@ -34,7 +34,7 @@ This project goes over how to create a share folder using server manager using S
  <br/>
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: By default Microsoft puts a Share Folder in File Explorer path: C: (drive) - Shares (folder) after creation</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: By default Microsoft puts a Share Folder in File Explorer path: C: (drive) - Shares (folder) after creation.</b></span>  
 <br/><br/>
 
 
