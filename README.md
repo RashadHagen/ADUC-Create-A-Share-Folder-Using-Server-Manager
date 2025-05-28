@@ -15,7 +15,7 @@ This project goes over how to create a share folder using server manager using S
   
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
- - <b>Active Directory Users and Computers</b>
+ - <b>Server Manager</b>
 
 
 
