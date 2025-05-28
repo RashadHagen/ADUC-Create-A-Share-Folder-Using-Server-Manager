@@ -1,4 +1,4 @@
-<h1>Active Directory Users and Computers (ADUC) - Create A Share Folder Using Server Manager</h1>
+<h1>Server Manager - Create A Share Folder</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
