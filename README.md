@@ -49,8 +49,8 @@ This project goes over how to create a share folder using server manager using S
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/iTsIabf.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/rKZuena.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -63,8 +63,8 @@ This project goes over how to create a share folder using server manager using S
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/lTJCFlw.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/Wl6Do06.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/lTJCFlw.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Wl6Do06.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -84,7 +84,7 @@ This project goes over how to create a share folder using server manager using S
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/GgGy4IZ.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/GgGy4IZ.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -104,7 +104,7 @@ This project goes over how to create a share folder using server manager using S
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/CdLqdzz.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/CdLqdzz.png" height="60%" width="60%" /></td>
   </tr>
 </table>
 
@@ -115,7 +115,7 @@ This project goes over how to create a share folder using server manager using S
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: New Shares.
     <br/>
     
-  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
+  <img src="https://imgur.com/pxoDAGT.png" height="60%" width="60%"/>  
   <br /><br /><br /><br />
 
 
@@ -132,7 +132,7 @@ This project goes over how to create a share folder using server manager using S
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/qBZb4ZW.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/qBZb4ZW.png" height="60%" width="60%" /></td>
   </tr>
 </table>
 
@@ -152,7 +152,7 @@ This project goes over how to create a share folder using server manager using S
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/mKKH0Jk.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/mKKH0Jk.png" height="60%" width="60%" /></td>
   </tr>
 </table>
 
@@ -172,7 +172,7 @@ This project goes over how to create a share folder using server manager using S
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/iqaYZTl.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/iqaYZTl.png" height="60%" width="60%" /></td>
   </tr>
 </table>
 
@@ -185,8 +185,8 @@ This project goes over how to create a share folder using server manager using S
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/Vv2qUdH.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/DYLumSX.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/Vv2qUdH.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/DYLumSX.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -199,8 +199,8 @@ This project goes over how to create a share folder using server manager using S
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/F4f5YPJ.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/Kfjr2sw.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/F4f5YPJ.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Kfjr2sw.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -213,8 +213,8 @@ This project goes over how to create a share folder using server manager using S
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/BtOvwfG.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/4ZED9F9.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/BtOvwfG.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/4ZED9F9.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -227,8 +227,8 @@ This project goes over how to create a share folder using server manager using S
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/go1Ef9C.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/4ZPKKoR.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/go1Ef9C.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/4ZPKKoR.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
