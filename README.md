@@ -24,7 +24,7 @@ This project goes over how to create a share folder using server manager using S
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
-- <b>Windows 10 & Windows Server 2016</b>
+- <b>Windows 10 RSAT & Windows Server 2016</b>
 
 
 
